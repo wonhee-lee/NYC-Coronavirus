@@ -2,6 +2,13 @@ NYC Coronavirus (COVID-19) Data: https://github.com/nychealth/coronavirus-data
 
 Link to Site: https://wonhee-lee.github.io/simple-web/
 
+
+# As of April 13, 2020
+
+<iframe title="Total count of COVID-19 cases by ZIP code" aria-label="USA new york city zip codes choropleth map" id="datawrapper-chart-J0m2H" src="//datawrapper.dwcdn.net/J0m2H/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+
 # As of April 12, 2020
 
 <iframe title="Total count of COVID-19 cases by ZIP code" aria-label="USA new york city zip codes choropleth map" id="datawrapper-chart-odZwQ" src="//datawrapper.dwcdn.net/odZwQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
