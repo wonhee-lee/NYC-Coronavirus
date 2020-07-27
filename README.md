@@ -1,6 +1,6 @@
 NYC Coronavirus (COVID-19) Data: https://github.com/nychealth/coronavirus-data
 
-Link to Site: https://wonhee-lee.github.io/simple-web/
+Link to Site: https://wonhee-lee.github.io/NYC-Coronavirus
 
 
 # As of April 13, 2020
